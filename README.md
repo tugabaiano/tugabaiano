@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo João Pedro Sena, tenho 19 anos e sou natural de Salvador Bahia. Concluí o ensino médio no SESI, e também cursei desenvolvimento de sistema no Senai Cimatec. Atualmente, estou cursando  Engenharia de Software na UCSal(Universidade Católica de Salvador). Sou apaixonada por tecnologia e jogos!
+Me chamo João Pedro Sena, tenho 19 anos e sou natural de Salvador Bahia. Concluí o ensino médio no SESI, e também cursei desenvolvimento de sistemas no Senai Cimatec. Atualmente, estou cursando  Engenharia de Software na UCSal(Universidade Católica de Salvador). Sou apaixonado por tecnologia e jogos!
 
 <p align="left">
     <a href="https://github.com/tugabaiano?tab=repositories&sort=stargazers">
