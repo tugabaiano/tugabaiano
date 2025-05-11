@@ -1,4 +1,4 @@
-# 👩🏻👨‍💻 tugabaiano/Jp_Sena
+#👨‍💻 tugabaiano/Jp_Sena
 
 **`Desenvolvedor em formação`**
 
